@@ -1,0 +1,13 @@
+# server 配置
+server:
+  port: 9000
+  servlet:
+    context-path: /
+
+# 用户信息配置
+login:
+  name:  admin
+  password: 123456
+  sex: M
+  tel: 13312344321
+  account: 123456
